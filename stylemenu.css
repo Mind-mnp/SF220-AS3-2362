@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(250, 227, 217);
+  font-style: oblique;
+  
+}
+h1{
+  color:rgb(254, 72, 128);
+  text-align: center;
+  background-color: rgb(97,192,191)
+  
+}
+
+h3{color:rgb(300, 123, 123);}
+
+h4{
+  background-color: rgb(215,212,207);
+  
+}
+
+nav{text-align: center}
+
+footer{
+  color: rgb(42,49,139)
